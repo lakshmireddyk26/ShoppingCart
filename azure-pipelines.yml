@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  default: name
+  name: Default
   vmImage: LAKSHMI
 
 steps:
